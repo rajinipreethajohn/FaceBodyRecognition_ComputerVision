@@ -1,6 +1,8 @@
 # Real-Time Body Language Detection
 This code demonstrates the real-time detection of body language using the Mediapipe library. It utilizes the Holistic solution from Mediapipe to detect and track various landmarks on the face, hands, and body.
 
+[![alt text](/images/FB.png)](https://github.com/rajinipreethajohn/FaceBodyRecognition_ComputerVision/blob/main/video/CV_FB.mov)
+
 ## Prerequisites
 Before running the code, make sure you have the following libraries installed:
 
